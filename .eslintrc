@@ -1,3 +1,4 @@
+//Rules set up for javascript to follow
 {
   "parserOptions": {
     "ecmaVersion": 8,
